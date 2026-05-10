@@ -1,4 +1,4 @@
-hashtag: "TalksAndWorkshops"
+hashtag: "#TalksAndWorkshops"
 content_path: "posts"
 scan_folders: 3
 parser: generic
