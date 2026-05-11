@@ -2,7 +2,7 @@
 date: 2026-05-11
 images:
   - https://drive.google.com/file/d/1G_jNUAgUrMfRxNIENG_dM7GG1NnK5-77/view
-url: https://www.eventbrite.it/e/primi-passi-in-python-con-il-tdd-dalle-variabili-al-primo-test-tickets-1989007595260
+url: https://2026.pycon.it/it/event/primi-passi-in-python-con-il-tdd-dalle-variabili-al-primo-test
 tags: [python,pytest,TDD,BestPractices]
 ---
 

@@ -2,7 +2,7 @@
 date: 2026-05-11
 images:
   - https://drive.google.com/file/d/1h1RJaro_C5Fzk8EwttcF1u4AgGC1I44S/view
-url: https://www.eventbrite.it/e/eda-introd-leggere-i-grafici-e-guidare-lanalisi-con-librerie-open-source-tickets-1989008204081
+url: https://2026.pycon.it/it/event/eda-introduttiva-leggere-i-grafici-e-guidare-lanalisi-con-librerie-open-source
 tags: [python,EDA,OpenSource,DataVisualization]
 ---
 
