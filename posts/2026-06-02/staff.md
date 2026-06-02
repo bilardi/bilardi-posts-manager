@@ -5,7 +5,7 @@ images:
   - https://drive.google.com/file/d/1Zd78xF0gol5wDGpiATHV8Spiz8NGQY11/view
   - https://drive.google.com/file/d/1XWj7mYrVvW-5ApsHC7bujuJN6Du6ESQY/view
   - https://drive.google.com/file/d/1b3UFvxZhK4Cq8vTsYK4ijGcf6sHz9jtd/view
-url: https://www.pycon.it/
+url: https://2026.pycon.it/en/help-organize-pycon-italia
 tags: [python,PyConIT]
 ---
 
@@ -46,8 +46,6 @@ With them I got to contribute and I found chemistry and support, inside and outs
 Thank you to the #PyConIT 2026 staff for welcoming me 🙏
 
 A great team, made of people who truly believe in the project 🐍
-
-With them I got to contribute and I found chemistry and support 🫂
 
 🐍 See you in Bologna on June 2-5, 2027 👋
 {url}
