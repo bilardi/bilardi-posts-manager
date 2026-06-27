@@ -26,7 +26,7 @@ Per fortuna avevo preparato anche slide in più su test e metodi: ci siamo conce
 
 Grazie a #PyConIT 2026 per avermi coinvolta nell'#OpenLearningDay 🙏
 
-Avevo preparato un workshop introduttivo su #Python 🐍 e #TDD per chi parte da zero:
+Avevo preparato un workshop introduttivo su #Python 🐍 e #TDD da zero:
 🎤 Primi passi in Python con il TDD: dalle variabili al primo test
 
 Gli studenti però conoscevano già le basi di Python 😅
